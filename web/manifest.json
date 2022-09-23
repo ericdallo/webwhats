@@ -1,6 +1,6 @@
 {
-    "name": "websapp",
-    "short_name": "websapp",
+    "name": "webwhats",
+    "short_name": "webwhats",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

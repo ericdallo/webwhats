@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "websapp" "\0"
+            VALUE "CompanyName", "com.gregcode" "\0"
+            VALUE "FileDescription", "webwhats" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "websapp" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "websapp.exe" "\0"
-            VALUE "ProductName", "websapp" "\0"
+            VALUE "InternalName", "webwhats" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 com.gregcode. All rights reserved." "\0"
+            VALUE "OriginalFilename", "webwhats.exe" "\0"
+            VALUE "ProductName", "webwhats" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

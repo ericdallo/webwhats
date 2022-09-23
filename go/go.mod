@@ -1,4 +1,4 @@
-module websapp/go
+module webwhats/go
 
 go 1.18
 
