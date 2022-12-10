@@ -1,4 +1,4 @@
-name: Webwhats
+name: webwhats
 description: A WhatsappWeb wrapper to be used directly from mobile or tablets.
 
 version: 1.0.0
@@ -9,7 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview: ^5.4.3+7
+  flutter_inappwebview: ^6.0.0-beta.21
+  flutter_downloader: ^1.9.1
+  path_provider: ^2.0.11
+  permission_handler: ^10.2.0
 
   cupertino_icons: ^1.0.2
 
